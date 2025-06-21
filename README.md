@@ -15,6 +15,9 @@ Dynamic Visualizations: Bar charts, line graphs, cards, maps, and pie charts for
 
 # Tools & Technologies-
 Power BI Desktop.
+
 Data Transformation using Power Query.
+
 DAX for calculated measures and KPIs.
+
 CSV/Excel (assumed) as data source.
